@@ -1,0 +1,14 @@
+{
+  "name": "capstone3",
+  "version": "1.0.0",
+  "description": "3rd capstone w/fullstack capability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
