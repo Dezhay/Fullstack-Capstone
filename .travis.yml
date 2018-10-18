@@ -1,9 +1,9 @@
 language: node_js
 node_js: node
-deploy: rocky-sands-59767
+deploy: 
   provider: heroku
   api_key:
     secure: iz4atbR6eJAFMeeUSlF3HRZuEB7fejJ6zqoOslDrUtV4r9cpEnYdSciiOSpeFSXl1sdCfIQHN9YtwiiMUlCJLeFeUIVz/bpCI3lsgVe9yt/QNhc4RURd4aM4/yYQzPn5wruE2kd+CNNOZ8lY6qwTI8EJWHrBoX/x01m1gsQ48uQen7UOpD4UdXwjwMcHkO59A9Brbigw5Ob2ykchluE8j2LfETmvt1bdBWj5aRc6MpqPU7KUQOx7osuT8Qgpp2J9LbWf4cJ1/Rr6alZXZCpTuXiC8h+1aQy5PWR7sBqwS2yi3ojscMwvi8WXTKT+KwLNNpGWyvu2uvPm0wxp7EpLVKfJnr6kk7ng0CagO1mx99b2452V7OFl1YBKzg+vvshIofQ3QN3pC0Omri19eii1391UbNP/H5b4cj5v0vWOmqTc4XgXTPhxBmai5hkftJOKWpJJdMxaUr7ETGa/hipDRux3O1ElSS+QMPY7kQG/GvidBs1IsmyFW7cS1XbTM3bchdFR7ZyScROP+QqCtGPqS8YEyMX7j/5JvWLpmMj0G0hp+15ckn/bVaJWk6Am6jHJhDfXdswFIdSRMHUGDoo02/ORBYNPDApb6OvMRKUcKUODEQP4k1T4nGAs18lQQqaGztQrHFxFANA1FEiiah6251yawR3K5chdhZDI/+50zkU=
-  app: Fullstack-Capstone
+  app: rocky-sands-59767
   on:
     repo: Dezhay/Fullstack-Capstone
